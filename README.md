@@ -1,10 +1,8 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de Laura Rodríguez Cuesta
 
-**[TU CURSO] · Curso 2026-2027**
+**2ºA bach · Curso 2026-2027**
 
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
-
+Aquí voy a ir escribiendo todo lo que voy haciendo en todas las clases de TDA II
 ---
 
 ## Índice
