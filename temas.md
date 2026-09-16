@@ -4,7 +4,7 @@
 Me gusta mucho el patinaje artístico, lo hice durante 4 años, en un club de aquí de la Felguera.
 Hace ya tiempo que no lo hago, porque entre estudiar, particular y otras cosas 
 no me daba tiempo a seguir con ello ya que tenía que estar todos los días entrenando 2 horas o incluso más. 
-También fui a varios campeonatos aquí y fuera de Asturias.
+También fuí a varios campeonatos aquí y fuera de Asturias.
 Ahora suelo ir más al gimnasio, ya que puedo ir cuando tengo tiempo y suelo entrenar 
 entre 3 y 4 días una hora y media. 
 
