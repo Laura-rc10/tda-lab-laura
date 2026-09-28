@@ -17,4 +17,6 @@ Christina Hammock Koch, nació el 29 de enero de 1979 en Grand Rapids, Míchigan
 Es una astronauta estadounidense galardonada para el Premio Princesa de Asturias de la Concordia.
 Es premiada, porque es la primera mujer de la historia en alejarse de nuestro planeta y de alcanzar el espacio profundo 
 Yo la escogí porque es un claro ejemplo de inspiración, superación de nuevos retos y luchar por conseguir las cosas que quieres.
+https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/christina-koch-premio-princesa-de-asturias-de-la-concordia-2026/ 
 
+<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/b216fc5f-7372-4907-8317-d510aaf74bc6" />
