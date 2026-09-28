@@ -19,4 +19,4 @@ Es premiada, porque es la primera mujer de la historia en alejarse de nuestro pl
 Yo la escogí porque es un claro ejemplo de inspiración, superación de nuevos retos y luchar por conseguir las cosas que quieres.
 [La página](https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/christina-koch-premio-princesa-de-asturias-de-la-concordia-2026/) 
 
-<img width="600" height="338" alt="image" src="https://github.com/user-attachments/assets/b216fc5f-7372-4907-8317-d510aaf74bc6" />
+![Chistina Koch](
