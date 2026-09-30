@@ -9,7 +9,7 @@ Ahora suelo ir más al gimnasio, ya que puedo ir cuando tengo tiempo y suelo ent
 entre 3 y 4 días una hora y media. 
 
 Buscando en Github he encontrado [La página](https://github.com/ireneFM97/fitlover) un programa que habla sobre rutinas y ejercicios del gimnasio 
-![Gimnasio](capturas/gimnasio.png)
+![Gimnasio](capturas/gimnasio.jpeg) 
 
 ### 28/09 · Premios Princesa de Asturias: Christina Koch
 Christina Hammock Koch, nació el 29 de enero de 1979 en Grand Rapids, Míchigan. 
