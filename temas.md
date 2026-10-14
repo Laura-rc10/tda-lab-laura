@@ -19,3 +19,12 @@ Yo la escogí porque es un claro ejemplo de inspiración, superación de nuevos 
 [La página](https://www.fpa.es/es/area-de-comunicacion-y-prensa/notas-de-prensa/christina-koch-premio-princesa-de-asturias-de-la-concordia-2026/) 
 
 ![Chistina Koch](capturas/premios.jpg)
+
+
+Ada Lovelace, nació en Londres el 10 de diciembre de 1815. Fue una matemática, informática teórica y escritora británica, 
+considerada universalmente como la primera programadora de la historia. 
+Cada año, el segundo martes de octubre, se celebra el Día Internacional Ada Lovelace, 
+para reconocer los éxitos femeninos en estos ámbitos y poner de relieve su contribución pionera a la informática y la programación.
+[La página](https://www.xirivella.es/es/pagina/ada-lovelace)
+
+![Ada Lovelace]
