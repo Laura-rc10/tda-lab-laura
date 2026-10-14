@@ -27,4 +27,4 @@ Cada año, el segundo martes de octubre, se celebra el Día Internacional Ada Lo
 para reconocer los éxitos femeninos en estos ámbitos y poner de relieve su contribución pionera a la informática y la programación.
 [La página](https://www.xirivella.es/es/pagina/ada-lovelace)
 
-![Ada Lovelace]
+![Ada Lovelace](capturas/ada1.jpg)
