@@ -20,7 +20,7 @@ Yo la escogí porque es un claro ejemplo de inspiración, superación de nuevos 
 
 ![Chistina Koch](capturas/premios.jpg)
 
-
+### 14/10 · Ada Lovelace
 Ada Lovelace, nació en Londres el 10 de diciembre de 1815. Fue una matemática, informática teórica y escritora británica, 
 considerada universalmente como la primera programadora de la historia. 
 Cada año, el segundo martes de octubre, se celebra el Día Internacional Ada Lovelace, 
